@@ -1,4 +1,4 @@
-Near-Real Time Usage Anomaly Detection using OpenSearch
+Network threat  Detection tool for AW
 Detecting usage anomalies promptly is crucial because they can result in unforeseen charges. The Near-Real Time Usage Anomaly Detection solutions offers the capabilities to address this issue effectively.
 
 Anomalies often manifest as an unusual number of invocations (known as spikes) of specific AWS APIs that involve provisioning or running AWS resources. Such anomalies can occur due to unintentional errors, such as a Lambda function stuck in a loop, or due to malicious activities like the use of leaked keys to create expensive GPU instances for cryptocurrency mining.
