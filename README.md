@@ -15,7 +15,7 @@ The number of monitored APIs can be easily extended and we look forward to recei
 This solution provides a range of features that can be easily adapted and tailored to suit your individual requirements, including:
 
 Configuration of OpenSearch and Cognito integration via CDK
-Implementation of both high-cardinality and low-cardinality anomaly detection techniques
+Implementation of both high-cardinality and low-cardinality anomaly detection techniques 
 Ingestion of CloudTrail logs into OpenSearch in real-time
 Development of custom dashboards using CloudTrail events
 How to programmatically setup OpenSearch anomaly detectors and alerts through CDK
